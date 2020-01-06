@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -19,8 +19,8 @@ sidebar:
     github: billztee7
     gitlab:
     bitbucket:
-    twitter: '@billztee7'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: billztee7
+    stack-overflow: 8597364/muhammad-bilal-tahir # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -60,13 +60,6 @@ education:
       university: PST Post Graduate College
       time: 2015 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 experiences:
     - role: Junior Software Engineer
       time: 2018 - 2019
@@ -126,4 +119,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <a href="piano.html" target="_blank" rel="nofollow"><i class="fas fa-heart"></i></a> by <a href="https://github.com/billztee7" target="_blank" rel="nofollow">Muhammad Bilal Tahir</a>
+    Designed with <a href="piano.html"><i class="fas fa-heart"></i></a> by <a href="https://github.com/billztee7" target="_blank" rel="nofollow">Muhammad Bilal Tahir</a>
